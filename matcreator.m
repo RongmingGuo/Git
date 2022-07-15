@@ -1,1 +1,1 @@
-results = plusmy(1 : 100, 100 : 199);
+results = num2str(plusmy(1 : 1000000, 1 : 1000000));
